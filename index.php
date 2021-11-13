@@ -63,7 +63,7 @@ require 'Fonction.php';
 
                         $fonction->delta();
 
-                        echo "Delta = " . $fonction->delta;
+                        echo "Delta  = " . $fonction->delta;
 
                         echo "<br>";
 
