@@ -50,11 +50,7 @@ require 'Fonction.php';
 
                 <?php
 
-                    if ($_POST['a'] == 0) {
-                        echo "Votre fontion n'est pas du second degrée";
-                    }
-
-                    elseif (!empty($_POST['a']) & !empty($_POST['b']) & !empty($_POST['c']) & isset($_POST['btn'])) {
+                    if (!empty($_POST['a']) & !empty($_POST['b']) & !empty($_POST['c']) & isset($_POST['btn'])) {
                         # code...
                         $a = $_POST['a'];
                         $b = $_POST['b'];
