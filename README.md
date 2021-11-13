@@ -1,4 +1,4 @@
-# Résolution d'équations du second degré ou quadratic equation
+## Résolution d'équations du second degré ou quadratic equation
 
 Initiation au PHP orientée objet, c'est une simple application de résolution d'équations du second degré qui se sert du Δ (delta) vu au lycée.
 
