@@ -56,7 +56,7 @@ require 'Fonction.php';
                         $b = $_POST['b'];
                         $c = $_POST['c'];
 
-                        echo "Votre fonction est (".$a.")x² + (".$b.")x + ".$c." = 0" ;
+                        echo "Votre équation est (".$a.")x² + (".$b.")x + ".$c." = 0" ;
                         echo "<br>";
 
                         $fonction = new Fonction($a, $b, $c);
